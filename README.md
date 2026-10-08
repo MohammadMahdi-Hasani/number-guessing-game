@@ -23,4 +23,4 @@ No external Python packages are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/number-guessing-game.git
+git clone https://github.com/MohammadMahdi-Hasani/number-guessing-game.git
